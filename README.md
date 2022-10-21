@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Kalondepatrick
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Patrick Kalonde
+
+- 👀 I’m currently developing geospatial methods for public health surveillance in urban environments.
+
+- 🌱 I bring my environmental stewardship, mathematical prowess, spatial thinking, problem solving and persuasive communication skills.
+
 
 <!---
 Kalondepatrick/Kalondepatrick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
